@@ -11,3 +11,6 @@ https://docs.wpilib.org/en/stable/docs/software/basic-programming/joystick.html
 
 Test Mode to test code on Robot:
 https://docs.wpilib.org/en/stable/docs/software/basic-programming/using-test-mode.html
+
+Building and Deploying Robot Code:
+https://docs.wpilib.org/en/stable/docs/software/vscode-overview/deploying-robot-code.html
