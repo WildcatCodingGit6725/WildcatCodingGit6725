@@ -1,0 +1,13 @@
+In this github file, there will be important links that you should check out to get started with coding
+
+Software Component Overview:
+https://docs.wpilib.org/en/stable/docs/controls-overviews/control-system-software.html
+
+Programming Basics: 
+https://docs.wpilib.org/en/stable/stubs/programming-basics-stub.html
+
+Joystick:
+https://docs.wpilib.org/en/stable/docs/software/basic-programming/joystick.html
+
+Test Mode to test code on Robot:
+https://docs.wpilib.org/en/stable/docs/software/basic-programming/using-test-mode.html
